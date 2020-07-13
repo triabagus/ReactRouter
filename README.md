@@ -22,9 +22,9 @@ npm install
 ```
 
 # Get API
-[Amiibo Public API](https://www.amiiboapi.com/docs/#amiibo). 
-
-Thanks for Share link API to: [Public API](https://github.com/public-apis/public-apis)
+Thanks for Share link API to: 
+- [Amiibo Public API](https://www.amiiboapi.com/docs/#amiibo). 
+- [Public API](https://github.com/public-apis/public-apis)
 
 
 
