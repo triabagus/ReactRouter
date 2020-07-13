@@ -16,6 +16,10 @@ For library router ReactJS
 ```bash
 npm install react-router-dom
 ```
+For Clone
+```bash
+npm install
+```
 
 # Get API
 [Amiibo Public API](https://www.amiiboapi.com/docs/#amiibo). 
